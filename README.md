@@ -40,7 +40,7 @@ Movie-Reservation-System-Backend/
 ### 1. Clone or Extract
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/ShivanHussain/Movie-Reservation-System-Backend>
 cd Movie-Reservation-System-Backend
 ```
 
